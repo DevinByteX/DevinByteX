@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/devingodage" target="blank"><img src="https://img.shields.io/twitter/follow/devingodage?logo=twitter&style=for-the-badge" alt="devingodage" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native, Flutter & MERN**
 
 - 💬 Ask me about **React Native**
 
