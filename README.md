@@ -2,7 +2,7 @@
 <h3 align="center">A passionate mobile developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif"/>
 
-<p align="left"> <a href="https://twitter.com/devingodage" target="blank"><img src="https://img.shields.io/twitter/follow/devingodage?logo=twitter&style=for-the-badge" alt="devingodage" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devin-godage" target="blank"><img src="https://img.shields.io/twitter/follow/devingodage?logo=twitter&style=for-the-badge" alt="devingodage" /></a> </p>
 
 - 🌱 I’m currently learning **React Native, Flutter & MERN**
 
