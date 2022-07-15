@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **devinkanilka@gmail.com**
 
-<h2 align="left">Connect with me</h3>
+<h2 align="left">📲 Connect With Me</h3>
 <a href="https://github.com/devinkg" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -28,8 +28,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-<h2 align="left">My skill set</h2>
-</p>
+<h2 align="left">🎨 My Skill Set</h2>
 <p align="left">
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://reactnative.dev/img/header_logo.svg"
@@ -88,9 +87,8 @@
         <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="30" height="30" />
     </a>
 </p>
-</p>
 
-<h2 align="left">Git stats</h2>
+<h2 align="left">📈 Git Stats</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=devinkg&theme=radical&hide_border=false&include_all_commits=false&count_private=true&locale=en" alt="devinkg" /></p>
 
@@ -98,5 +96,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinkg&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="devinkg" /></p>
 
+<h2 align="left">✍️ Random Dev Quote</h2>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 <p align="center"> <a href="https://twitter.com/devingodage" target="blank"><img src="https://img.shields.io/twitter/follow/devingodage?logo=twitter&style=for-the-badge" alt="devingodage" /></a> </p>
