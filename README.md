@@ -91,7 +91,7 @@
 
 <h2 align="left">📈 Git Stats</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=devinkg&theme=radical&hide_border=false&include_all_commits=false&count_private=true&locale=en" alt="devinkg" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=devinkg&theme=radical&hide_border=false&include_all_commits=false&count_private=true&locale=en&show_icons=true" alt="devinkg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devinkg&theme=radical&hide_border=false" alt="devinkg" /></p>
 
