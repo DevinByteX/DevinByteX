@@ -22,6 +22,9 @@
 <a href="https://twitter.com/devingodage" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+<a href="https://open.spotify.com/user/devin_deekay">
+<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+</a>
 <a href="https://instagram.com/devin_deekay" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
@@ -30,7 +33,7 @@
 </a>
 
 
-<h2 align="left">🎨 My Skill Set</h2>
+<h2 align="left">👉 Tech Stack</h2>
 <p align="left">
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
         <img src="https://reactnative.dev/img/header_logo.svg"
