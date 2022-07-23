@@ -51,12 +51,12 @@
     <a href="https://nodejs.org/"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-20232A?logo=node.js&amp;logoColor=3C873A"/>
     <a href="https://expressjs.com/"><img alt="ExpressJS" src="https://img.shields.io/badge/express.js-20232A?logo=express&amp;logoColor=F0F0F0"/>
     <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-20232A?logo=mongodb&amp;logoColor=049024"/>
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-20232A?logo=mysql&amp;logoColor=765341"/>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-20232A?logo=mysql&amp;logoColor=005C84"/>
     <a href="https://postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-20232A?logo=postman&amp;logoColor=EF5B25"/>
     <a href="https://www.skype.com/en/"><img alt="Skype" src="https://img.shields.io/badge/Skype-20232A?logo=skype&amp;logoColor=009EDC"/>
     <a href="https://www.apple.com/"><img alt="Apple" src="https://img.shields.io/badge/Apple-20232A?logo=apple&amp;logoColor=FFFFFF"/>
-    <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-20232A?logo=linux&amp;logoColor=FFA400"/>
-    <a href="https://www.microsoft.com/en-us/"><img alt="Windows" src="https://img.shields.io/badge/Windows-20232A?logo=windowsxp&amp;logoColor=7FBA00"/>
+    <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-20232A?logo=linux&amp;logoColor=FCC624"/>
+    <a href="https://www.microsoft.com/en-us/"><img alt="Windows" src="https://img.shields.io/badge/Windows-20232A?logo=windowsxp&amp;logoColor=008080"/>
 </p>
 
 <h2 align="left">📈 Git Stats</h2>
