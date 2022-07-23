@@ -101,8 +101,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinkg&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="devinkg" /></p>
 
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=devinkg&theme=redical&hide_border=false&custom_title=Devin's%20Contribution%20Graph&radius=4" alt="devinkg"/></p>
+
 <h2 align="left">✍️ Random Dev Quote</h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="devinkg"/></p>
+
 ---
 <p align="center"> <a href="https://twitter.com/devingodage" target="blank"><img src="https://img.shields.io/twitter/follow/devingodage?logo=twitter&style=for-the-badge" alt="devingodage" /></a> </p>
