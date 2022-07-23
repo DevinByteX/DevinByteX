@@ -35,62 +35,22 @@
 
 <h2 align="left">👉 Tech Stack</h2>
 <p align="left">
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://reactnative.dev/img/header_logo.svg"
-            alt="reactnative" width="30" height="30" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="30" height="30" /> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="30" height="30" /> </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-            width="30" height="30" /> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="30" height="30" /> </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-            alt="firebase" width="30" height="30" /></a>
-    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
-            alt="swift" width="30" height="30" /> </a>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" width="30" height="30" /> </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-            alt="flutter" width="30" height="30" /></a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="30" height="30" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="30" height="30" /> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="30" height="30" /> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express" width="30" height="30" /> </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="30" height="30" /> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="30" height="30" /> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-            alt="linux" width="30" height="30" /> </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30"
-            height="30" /> </a>
-    <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="30" height="30" />
-    </a>
+    <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?logo=react&amp;logoColor=61DAFB"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A?logo=javascript&amp;logoColor=yellow"/>
+    <a href="https://www.java.com"><img alt="Java" src="https://img.shields.io/badge/Java-20232A?logo=java&amp;logoColor=yellow"/>
+    <a href="https://redux.js.org"><img alt="Redux" src="https://img.shields.io/badge/Redux-20232A?logo=redux&amp;logoColor=764ABC"/>
+    <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-20232A?logo=typescript&amp;logoColor=007acc"/>
+    <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-20232A?logo=firebase&amp;logoColor=FFA611"/>
+    <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-20232A?logo=git&amp;logoColor=F34F29"/>
+    <a href="https://code.visualstudio.com"><img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-20232A?logo=visual-studio-code&amp;logoColor=0078D7"/>
+    <a href="https://developer.apple.com/swift/"><img alt="Swift" src="https://img.shields.io/badge/Swift-20232A?logo=swift&amp;logoColor=A552A9"/>
+    <a href="https://developer.android.com"><img alt="Android" src="https://img.shields.io/badge/Android-20232A?logo=android&amp;logoColor=A4C639"/>
+    <a href="https://nodejs.org"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-20232A?logo=node.js&amp;logoColor=3C873A"/>
+    <a href="https://expressjs.com"><img alt="ExpressJS" src="https://img.shields.io/badge/express.js-20232A?logo=express&amp;logoColor=F0F0F0"/>
+    <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-20232A?logo=mongodb&amp;logoColor=049024"/>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-20232A?logo=mysql&amp;logoColor=00758F"/>
+    <a href="https://postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-20232A?logo=postman&amp;logoColor=EF5B25"/>
+    <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-20232A?logo=linux&amp;logoColor=1793D1"/>
 </p>
 
 <h2 align="left">📈 Git Stats</h2>
