@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devin Godage</h1>
-<h3 align="center"><i>A passionate mobile developer</i></h3>
+<h3 align="center"><i>A passionate mobile developer 👨🏻‍💻</i></h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif"/> -->
 <!-- https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif -->
 
