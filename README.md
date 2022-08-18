@@ -36,7 +36,7 @@
 <h2 align="left">👉 Tech Stack</h2>
 <p align="left">
     <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?logo=react&amp;logoColor=61DAFB"/>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A?logo=javascript&amp;logoColor=yellow"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A?logo=javascript&amp;logoColor=FFFF00"/>
     <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-20232A?logo=java&amp;logoColor=yellow"/>
     <a href="https://redux.js.org/"><img alt="Redux" src="https://img.shields.io/badge/Redux-20232A?logo=redux&amp;logoColor=764ABC"/>
     <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-20232A?logo=typescript&amp;logoColor=007acc"/>
