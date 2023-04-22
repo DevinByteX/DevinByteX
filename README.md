@@ -37,7 +37,7 @@
 <p align="left">
     <a href="https://reactnative.dev/"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?logo=react&amp;logoColor=61DAFB"/>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A?logo=javascript&amp;logoColor=FFFF00"/>
-    <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-20232A?logo=java&amp;logoColor=yellow"/>
+<!--     <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-20232A?logo=java&amp;logoColor=yellow"/> -->
     <a href="https://redux.js.org/"><img alt="Redux" src="https://img.shields.io/badge/Redux-20232A?logo=redux&amp;logoColor=764ABC"/>
     <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-20232A?logo=typescript&amp;logoColor=007acc"/>
     <a href="https://www.npmjs.com/"><img alt="NPM" src="https://img.shields.io/badge/npm-20232A?logo=npm&amp;logoColor=764ABC"/>
@@ -53,7 +53,7 @@
     <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-20232A?logo=mongodb&amp;logoColor=049024"/>
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-20232A?logo=mysql&amp;logoColor=005C84"/>
     <a href="https://postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-20232A?logo=postman&amp;logoColor=EF5B25"/>
-    <a href="https://www.skype.com/en/"><img alt="Skype" src="https://img.shields.io/badge/Skype-20232A?logo=skype&amp;logoColor=009EDC"/>
+<!--     <a href="https://www.skype.com/en/"><img alt="Skype" src="https://img.shields.io/badge/Skype-20232A?logo=skype&amp;logoColor=009EDC"/> -->
     <a href="https://www.apple.com/"><img alt="Apple" src="https://img.shields.io/badge/Apple-20232A?logo=apple&amp;logoColor=FFFFFF"/>
     <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-20232A?logo=linux&amp;logoColor=FCC624"/>
     <a href="https://www.microsoft.com/en-us/"><img alt="Windows" src="https://img.shields.io/badge/Windows-20232A?logo=windowsxp&amp;logoColor=008080"/>
