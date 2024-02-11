@@ -3,7 +3,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif"/> -->
 <!-- https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif -->
 
-- 🌱 I’m currently learning **React Native, Flutter & MERN**
+- 🌱 I’m currently learning **React Native, Flutter & NextJS**
 
 - 💬 Ask me about **React Native**
 
