@@ -61,11 +61,11 @@
 
 <h2 align="left">📈 Git Stats</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=devinkg&theme=radical&hide_border=false&include_all_commits=false&count_private=true&locale=en&show_icons=true" alt="devinkg" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DevinByteX&theme=radical&hide_border=false&include_all_commits=false&count_private=true&locale=en&show_icons=true" alt="DevinByteX" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devinkg&theme=radical&hide_border=false" alt="devinkg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevinByteX&theme=radical&hide_border=false" alt="DevinByteX" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinkg&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="devinkg" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevinByteX&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="DevinByteX" /></p>
 
 <!-- <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=devinkg&theme=redical&hide_border=false&custom_title=Devin's%20Contribution%20Graph&radius=4" alt="devinkg"/></p> -->
 
