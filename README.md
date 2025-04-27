@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/devin-godage" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/devinkg" target="_blank">
+<a href="https://github.com/DevinByteX" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?color=222222&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/9516745" target="_blank">
